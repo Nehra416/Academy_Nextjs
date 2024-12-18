@@ -1,0 +1,125 @@
+{
+    "courses": [
+    {
+      "id": 1,
+      "title": "Next.js Fundamentals",
+      "slug": "next-js-fundamentals",
+      "description": "Master the basics of building modern web applications with Next.js, including routing and server-side rendering.",
+      "price": 119.99,
+      "instructor": "Alice Smith",
+      "isFeatured": true,
+      "image": "/courses/nextjs.jpg"
+    },
+    {
+      "id": 2,
+      "title": "React.js Basics",
+      "slug": "react-js-basics",
+      "description": "Learn the core concepts of React.js, including components, hooks, and state management to build dynamic UIs.",
+      "price": 89.99,
+      "instructor": "Bob Johnson",
+      "isFeatured": false,
+      "image": "/courses/reactjs.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced React.js Techniques",
+      "slug": "advanced-react-js-techniques",
+      "description": "Take your React skills to the next level with advanced topics such as context API, testing, and performance optimization.",
+      "price": 139.99,
+      "instructor": "Sarah Lee",
+      "isFeatured": true,
+      "image": "/courses/advanced-react.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Node.js for Beginners",
+      "slug": "node-js-for-beginners",
+      "description": "Get started with Node.js and learn to build server-side applications with JavaScript, including basic APIs and HTTP requests.",
+      "price": 99.99,
+      "instructor": "Michael Brown",
+      "isFeatured": false,
+      "image": "/courses/nodejs.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Express.js Mastery",
+      "slug": "express-js-mastery",
+      "description": "Learn how to build RESTful APIs with Express.js, from setting up a server to handling requests and connecting to a database.",
+      "price": 109.99,
+      "instructor": "David Wilson",
+      "isFeatured": true,
+      "image": "/courses/expressjs.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Full-Stack Development (MERN)",
+      "slug": "full-stack-mern",
+      "description": "Become a full-stack developer by mastering the MERN stack (MongoDB, Express.js, React.js, Node.js)",
+      "price": 159.99,
+      "instructor": "Emily Davis",
+      "isFeatured": true,
+      "image": "/courses/mern.jpg"
+    },
+    {
+      "id": 7,
+      "title": "React Native Basics",
+      "slug": "react-native-basics",
+      "description": "Learn to build cross-platform mobile apps with React Native, covering components, navigation, and state management.",
+      "price": 129.99,
+      "instructor": "John Doe",
+      "isFeatured": false,
+      "image": "/courses/react-native.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Next.js for SEO",
+      "slug": "next-js-for-seo",
+      "description": "Learn how to improve your Next.js application for better SEO with server-side rendering, static site generation, and more.",
+      "price": 149.99,
+      "instructor": "Tom Harris",
+      "isFeatured": true,
+      "image": "/courses/nextjs-seo.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Node.js API Development",
+      "slug": "node-js-api-development",
+      "description": "Build scalable and secure REST APIs with Node.js and Express, including authentication, validation, and error handling.",
+      "price": 119.99,
+      "instructor": "Olivia Turner",
+      "isFeatured": false,
+      "image": "/courses/nodejs-api.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Advanced Express.js",
+      "slug": "advanced-express-js",
+      "description": "Dive deeper into Express.js with advanced concepts like middleware, authentication, and error handling in production environments.",
+      "price": 139.99,
+      "instructor": "Daniel Green",
+      "isFeatured": true,
+      "image": "/courses/advanced-express.jpg"
+    },
+    {
+      "id": 11,
+      "title": "TypeScript with React.js",
+      "slug": "typescript-with-react-js",
+      "description": "Learn how to build React applications with TypeScript, improving type safety and development efficiency.",
+      "price": 109.99,
+      "instructor": "Sophia Brown",
+      "isFeatured": false,
+      "image": "/courses/typescript-react.jpg"
+    },
+    {
+      "id": 12,
+      "title": "GraphQL with Node.js and React",
+      "slug": "graphql-with-nodejs-and-react",
+      "description": "Understand how to integrate GraphQL into your applications with Node.js and React for a more efficient API and data fetching.",
+      "price": 149.99,
+      "instructor": "James Miller",
+      "isFeatured": false,
+      "image": "/courses/graphql.jpg"
+    }
+  ]
+}
+  

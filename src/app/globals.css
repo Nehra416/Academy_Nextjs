@@ -19,3 +19,21 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* for decrease the width of scrollbar in all next js project */
+
+::-webkit-scrollbar {
+  width: 3px; /* Decreases the width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Light background for the track */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888; /* Thumb color */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555; /* Darker thumb color on hover */
+}
