@@ -1,7 +1,8 @@
-import Image from "next/image";
 
 export default function Home() {
   return (
-    <h1 className="text-2xl text-center">Welcome in Next JS</h1>
+    <main className="bg-black/[0.9] min-h-screen antialiased">
+      <h1 className="text-2xl text-center">Welcome in Next JS</h1>
+    </main>
   );
 }
