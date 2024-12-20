@@ -28,7 +28,7 @@
       "price": 139.99,
       "instructor": "Sarah Lee",
       "isFeatured": true,
-      "image": "/courses/advanced-react.jpg"
+      "image": "/courses/advanceReactjs.jpg"
     },
     {
       "id": 4,
@@ -68,7 +68,7 @@
       "price": 129.99,
       "instructor": "John Doe",
       "isFeatured": false,
-      "image": "/courses/react-native.jpg"
+      "image": "/courses/reactnative.jpg"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "price": 149.99,
       "instructor": "Tom Harris",
       "isFeatured": true,
-      "image": "/courses/nextjs-seo.jpg"
+      "image": "/courses/nextjs.jpg"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "price": 119.99,
       "instructor": "Olivia Turner",
       "isFeatured": false,
-      "image": "/courses/nodejs-api.jpg"
+      "image": "/courses/nodejs.jpg"
     },
     {
       "id": 10,
@@ -98,7 +98,7 @@
       "price": 139.99,
       "instructor": "Daniel Green",
       "isFeatured": true,
-      "image": "/courses/advanced-express.jpg"
+      "image": "/courses/expressjs.jpg"
     },
     {
       "id": 11,
@@ -108,7 +108,7 @@
       "price": 109.99,
       "instructor": "Sophia Brown",
       "isFeatured": false,
-      "image": "/courses/typescript-react.jpg"
+      "image": "/courses/typescript.jpg"
     },
     {
       "id": 12,
@@ -118,7 +118,7 @@
       "price": 149.99,
       "instructor": "James Miller",
       "isFeatured": false,
-      "image": "/courses/graphql.jpg"
+      "image": "/courses/graphsql.jpg"
     }
   ]
 }
