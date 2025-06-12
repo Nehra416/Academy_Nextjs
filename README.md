@@ -1,6 +1,6 @@
 # 🏫 Academy Portfolio - Built with Next.js & Aceternity UI
 
-**Live Demo** 👉 [https://test-purpose-pi.vercel.app/](https://test-purpose-pi.vercel.app/)
+**Live Demo** 👉 [Academy Portfolio](https://techacademy-sandy.vercel.app/)
 
 This is a beautiful and modern **portfolio website** for a tech academy that teaches web development technologies like React.js, Next.js, Node.js, Angular, and more. It showcases the academy’s offerings, founders, testimonials, and more — all built using **Aceternity UI** components with **Next.js** and **TypeScript**.
 
@@ -79,4 +79,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## 🌐 Deployment
 
-Hosted on Vercel: [https://test-purpose-pi.vercel.app/](https://test-purpose-pi.vercel.app/)
+Hosted on Vercel: [Academy Portfolio](https://techacademy-sandy.vercel.app/)
