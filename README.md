@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏫 Academy Portfolio - Built with Next.js & Aceternity UI
 
-## Getting Started
+**Live Demo** 👉 [https://test-purpose-pi.vercel.app/](https://test-purpose-pi.vercel.app/)
 
-First, run the development server:
+This is a beautiful and modern **portfolio website** for a tech academy that teaches web development technologies like React.js, Next.js, Node.js, Angular, and more. It showcases the academy’s offerings, founders, testimonials, and more — all built using **Aceternity UI** components with **Next.js** and **TypeScript**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔍 Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 🧑‍🏫 Academy introduction and mission
+- 👨‍💻 Technologies taught (React, Next.js, etc.)
+- 🌟 Founders and testimonials
+- 🎨 Modern UI using Aceternity UI
+- ⚡ Fast, responsive, and animated interface
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🚀 Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- **Next.js 15**
+- **TypeScript**
+- **Tailwind CSS**
+- **Aceternity UI**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📸 Screenshots
 
-## Deploy on Vercel
+### Homepage
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Homepage](https://res.cloudinary.com/nehra1800/image/upload/v1749734005/Screenshot_2025-06-12_183357_io0bm6.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Sections
+
+![Sections](https://res.cloudinary.com/nehra1800/image/upload/v1749734005/Screenshot_2025-06-12_183611_ixzlxl.png)
+
+---
+
+## 📦 Installation
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/Nehra416/medical.git
+   ```
+
+   Then `cd medical`
+
+2. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+3. **Start development server**
+
+   ```bash
+   npm start
+   ```
+
+   Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) — feel free to use, modify, or share.
+
+---
+
+## 👤 Author -> **Deepak Nehra**
+
+- LinkedIn: [@deepak-nehra](https://www.linkedin.com/in/deepak-nehra/)
+
+- GitHub: [@Nehra416](https://github.com/Nehra416)
+
+---
+
+## 🌐 Deployment
+
+Hosted on Vercel: [https://test-purpose-pi.vercel.app/](https://test-purpose-pi.vercel.app/)

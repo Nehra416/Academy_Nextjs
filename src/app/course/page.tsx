@@ -5,7 +5,7 @@ import Link from "next/link";
 import content from "@/dumyData/data.json";
 
 
-const page = () => {
+const Page = () => {
   return (
     <div className="min-h-screen bg-black py-12 pt-36" >
       <h1 className="text-lg md:text-6xl text-center font-sans font-bold mb-8 text-white">Our All Courses ({content.courses.length})</h1>
@@ -62,4 +62,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Page
